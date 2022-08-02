@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# Love Sandwitches
+# Love Sandwiches
 A command line based Python program to handle data  automation for a fictional sandwich company.
 Love Sandwiches runs a local market stall, selling  a small range of sandwiches.
 For each market day, their staff pre-make stock to sell. If they sell out of a particular sandwich, their staff make extra for their customers. And the unsold  ones are thrown away at the end of the day.
